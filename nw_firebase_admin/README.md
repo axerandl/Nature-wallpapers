@@ -1,0 +1,2 @@
+# Nature Wallpapers admin tool for a Firebase datastore
+## Used for mapping a list of folders with images on a file system to a Firebase datastore in a way suitable for ease of consuming by a mobile app
